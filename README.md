@@ -9,6 +9,6 @@
  </ul>
  <i>The link to the course: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ </i>
 <br><br>
- <b>Note:</b> If you do the course, plese use these algorithms just for comparation. In order to understand and learn JavaScript (or any other programming language) is better to do the algorithms in your own way. 
+ <b>Note:</b> If you do the course, please use these algorithms just for comparation. In order to understand and learn JavaScript (or any other programming language) is better to do the algorithms in your own way. 
  
 
